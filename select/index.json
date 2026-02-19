@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Snowing Love",
+  "base_artist": "虹のコンキスタドール",
+  "createdAt": "2026-02-19T07:21:11.626144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Snowing Love",
+      "artist": "虹のコンキスタドール",
+      "has_synced": true,
+      "path": "select/01_Snowing_Love_虹のコンキスタドール.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snowing Love",
+      "artist": "Niji no Conquistador",
+      "has_synced": true,
+      "path": "select/02_Snowing_Love_Niji_no_Conquistador.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Snowing Love",
+      "artist": "虹のコンキスタドール",
+      "has_synced": true,
+      "path": "select/03_Snowing_Love_虹のコンキスタドール.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Snowing Love",
+      "artist": "虹のコンキスタドール",
+      "has_synced": false,
+      "path": "select/pl_01_Snowing_Love_虹のコンキスタドール.txt"
+    }
+  ]
+}
